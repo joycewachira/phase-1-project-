@@ -1,0 +1,42 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "name": "The Selfish Gene",
+        "description": "Richard Dawkins explores the gene-centered view of evolution and the role of genes in shaping behavior.",
+        "image": "selfish.jpg"
+      },
+      {
+        "id": 2,
+        "name": "The Structure of Scientific Revolutions",
+        "description": "Thomas S. Kuhn introduces the concept of paradigm shifts and challenges traditional views of scientific progress.",
+        "image": "revolutions.jpg"
+      },{
+        "id": 3,
+        "name": "A Brief History of Time",
+        "description": "Stephen Hawking provides an accessible overview of cosmology, the Big Bang, black holes, and the nature of time.",
+        "image": "time.jpg"
+      },
+      {
+        "id": 4,
+        "name": "The Elegant Universe",
+        "description": "Brian Greene explores string theory, the quest for a unified theory of physics, and the nature of the universe.",
+        "image": "elegant.jpg"
+      },{
+        "id": 5,
+        "name": "The Double Helix",
+        "description": "James D. Watson recounts the discovery of the structure of DNA and the race to unlock the secrets of life.",
+        "image": "helix.jpg"
+      },{
+        "id": 6,
+        "name": "The Feynman Lectures on Physics",
+        "description": "Richard P. Feynman delivers a comprehensive introduction to physics, covering a wide range of topics.",
+      "image": "feyman.jpg"
+    }
+  ]
+}
+
+
+
+
+
